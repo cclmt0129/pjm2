@@ -26,5 +26,4 @@ I'm Chau Chung Lai ,Matthew.
 ![image](https://github.com/cclmt0129/pjm2/blob/master/code.png)
 ![gif](https://github.com/cclmt0129/pjm2/blob/master/biBf0tk.gif)
 
-git remote add origin https://github.com/csci3250-2019/student-1155110464.git
-git push -u origin master
+
